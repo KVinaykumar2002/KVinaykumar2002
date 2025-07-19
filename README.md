@@ -1,4 +1,4 @@
-# Hi there, I'm Medamoni Sharan 👋
+# Hi there, I'm Kalakonda Vinay 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -6,13 +6,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **Keshav Memorial Institute of Technology (KMIT)**
+- 🎓 Graduated from **Vardhaman College Of Engineering**
 - 💼 Software Engineer based in Hyderabad.
 - 🔭 Currently focused on:
   - [**ProjectBazaar**](https://projectbazaar.in/)
   - [**Project 2**](https://github.com/MedamoniSharan/CryptoAiTrade)
 - 📚 Learning **new technologies** and improving **technical knowledge**.
-- 📫 Reach me at: **sharan.medamoni4243@gmail.com || sharan.medamoni1729@gmail.com**
+- 📫 Reach me at: **vinaykalakonda02@gmail.com**
 
 
 <picture>
